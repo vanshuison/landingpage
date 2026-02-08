@@ -12,23 +12,17 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a
-                href="mailto:udithavithanage358@gmail.com"
+                href="mailto:patelvansh7749@gmail.com"
                 data-cursor="disable"
               >
-                udithavithanage358@gmail.com
-              </a>
-            </p>
-            <h4>Phone</h4>
-            <p>
-              <a href="tel:+94713506655" data-cursor="disable">
-                +94 71 350 66 55
+                patelvansh7749@gmail.com
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/udithavithanage"
+              href="https://github.com/whoovanshu"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -36,7 +30,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/uditha-vithanage-06589631b"
+              href="www.linkedin.com/in/vansh-patel-301413397"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -44,7 +38,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/uditha_2003"
+              href="https://x.com/whoovansh"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -52,7 +46,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/uditha_vithanage"
+              href="https://www.instagram.com/whoovansh"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -62,10 +56,10 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Uditha Vithanage</span>
+              Designed and Developed <br /> by <span>Vansh Patel</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
