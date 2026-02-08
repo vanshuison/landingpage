@@ -4,7 +4,6 @@ import {
   FaLinkedinIn,
   FaXTwitter,
 } from "react-icons/fa6";
-import { TbNotes } from "react-icons/tb";
 
 import HoverLinks from "./HoverLinks";
 
@@ -38,16 +37,6 @@ const SocialIcons = () => {
           </a>
         </span>
       </div>
-      <a
-        className="resume-button"
-        href="https://www.udithav.me/assets/CV_Uditha-BuqOoCLy.pdf"
-        target="_blank"
-      >
-        <HoverLinks text="RESUME" />
-        <span>
-          <TbNotes />
-        </span>
-      </a>
     </div>
   );
 };
