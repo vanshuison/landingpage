@@ -89,20 +89,13 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>Problem Decomposition</h3>
               <h4>Description</h4>
               <p>
-                Building scalable web applications with modern technologies.
-                Expertise in full-stack development with focus on performance,
-                user experience, and clean code architecture.
+                I break complex, ambiguous problems into clear, manageable,
+                parts.This helps me identify risks early, design better solutions,
+                and move from confusion to execution quickly.
               </p>
-              <h5>Skillset & tools</h5>
-              <div className="what-content-flex">
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">NextJs</div>
-                <div className="what-tags">Tailwind CSS</div>
-              </div>
               <div className="what-arrow"></div>
             </div>
           </div>
@@ -125,21 +118,13 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>INNOVATE</h3>
+              <h3>Think in Systems</h3>
               <h4>Description</h4>
               <p>
-                Creating innovative solutions with machine learning and modern
-                web technologies. Developing open-source tools and libraries
-                that solve real-world problems and improve developer
-                productivity.
+                I break complex problems into structured solutions, considering
+               scalability, risks, and long-term impact. I align technical
+                decisions with product and business goals.
               </p>
-              <h5>Skillset & tools</h5>
-              <div className="what-content-flex">
-                <div className="what-tags">Open Source</div>
-                <div className="what-tags">CLI Tools</div>
-                <div className="what-tags">API Design</div>
-                <div className="what-tags">Git/GitHub</div>
-              </div>
               <div className="what-arrow"></div>
             </div>
           </div>
