@@ -12,13 +12,13 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/udithavithanage" target="_blank" rel="noreferrer">
+          <a href="https://github.com/whoovanshu" target="_blank" rel="noreferrer">
             <FaGithub />
           </a>
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/uditha-vithanage-06589631b"
+            href="www.linkedin.com/in/vansh-patel-301413397"
             target="_blank"
             rel="noreferrer"
           >
@@ -26,12 +26,12 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="https://x.com/uditha_2003" target="_blank" rel="noreferrer">
+          <a href="https://x.com/whoovansh" target="_blank" rel="noreferrer">
             <FaXTwitter />
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com/uditha_vithanage" target="_blank" rel="noreferrer">
+          <a href="https://www.instagram.com/whoovansh" target="_blank" rel="noreferrer">
             <FaInstagram />
           </a>
         </span>
