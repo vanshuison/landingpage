@@ -121,9 +121,9 @@ const WhatIDo = () => {
               <h3>Think in Systems</h3>
               <h4>Description</h4>
               <p>
-                I break complex problems into structured solutions, considering
-               scalability, risks, and long-term impact. I align technical
-                decisions with product and business goals.
+              I focus on how decisions connect over time, not just how features work
+              in isolation. I consider trade-offs, long-term impact, and scalability
+              before execution, ensuring solutions remain effective as complexity.
               </p>
               <div className="what-arrow"></div>
             </div>
