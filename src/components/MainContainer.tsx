@@ -7,7 +7,6 @@ import Landing from "./Landing";
 import Navbar from "./Navbar";
 import SocialIcons from "./SocialIcons";
 import WhatIDo from "./WhatIDo";
-import Work from "./Work";
 import setSplitText from "./utils/splitText";
 import TechStack from "./TechStack";
 
@@ -42,7 +41,6 @@ const MainContainer = ({ children }: PropsWithChildren) => {
           <About />
           <WhatIDo />
           <Career />
-          <Work />
           <TechStack />
           <Contact />
         </div>
