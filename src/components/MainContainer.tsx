@@ -8,7 +8,6 @@ import Navbar from "./Navbar";
 import SocialIcons from "./SocialIcons";
 import WhatIDo from "./WhatIDo";
 import setSplitText from "./utils/splitText";
-import TechStack from "./TechStack";
 
 const MainContainer = ({ children }: PropsWithChildren) => {
   const [isDesktopView, setIsDesktopView] = useState<boolean>(() =>
@@ -41,7 +40,6 @@ const MainContainer = ({ children }: PropsWithChildren) => {
           <About />
           <WhatIDo />
           <Career />
-          <TechStack />
           <Contact />
         </div>
       </div>
